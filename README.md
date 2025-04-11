@@ -30,13 +30,3 @@
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/yourprofile)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-> “Stay out of the system. Or *own* it.” 🚀
